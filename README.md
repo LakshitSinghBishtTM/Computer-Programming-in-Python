@@ -24,7 +24,6 @@
 - NPTEL: [Python for Scientific Computing by Prof. Prabhu Ramachandran, IIT Bombay](https://nptel.ac.in/courses/106101206)
 
 ## Index
-
 1. [Chapter 1](https://github.com/LakshitSinghBishtTM/Computer-Programming-in-Python/blob/main/Chapter1.pdf)
 2. [Chapter 2] 
 3. [Chapter 3]  
